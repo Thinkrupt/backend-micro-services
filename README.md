@@ -165,6 +165,3 @@ Each file will be accompanied with full explanation and comments.
 #### 40. `README.md`
 > Full course instructions, setup guide, usage
 
----
-
-Next up: I’ll start dropping the actual code files with full comments starting from **File 01**. Let me know if you want all in one go, or one-by-one with explanation per file.
