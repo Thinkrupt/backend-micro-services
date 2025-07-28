@@ -1,4 +1,4 @@
-# 🚀 Fullstack Microservices Course with NX Monorepo, Fastify, NestJS, tRPC, Docker, Kafka, Redis, PostgreSQL, and Prisma
+## Fullstack Microservices Course with NX Monorepo, Fastify, NestJS, tRPC, Docker, Kafka, Redis, PostgreSQL, and Prisma
 
 ## 🧠 Overview
 This course will walk you through building a modern microservices-based architecture using a monorepo setup with [Nx](https://nx.dev). It includes services using **Fastify**, **NestJS**, **tRPC**, and integrates **Kafka**, **Redis**, **PostgreSQL**, and **Prisma ORM**.
@@ -165,6 +165,3 @@ Each file will be accompanied with full explanation and comments.
 #### 40. `README.md`
 > Full course instructions, setup guide, usage
 
----
-
-Next up: I’ll start dropping the actual code files with full comments starting from **File 01**. Let me know if you want all in one go, or one-by-one with explanation per file.
